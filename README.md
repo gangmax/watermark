@@ -25,3 +25,4 @@ python watermark.py
 exit
 ```
 
+From [here](https://www.blog.pythonlibrary.org/2017/10/17/how-to-watermark-your-photos-with-python/) and [here](http://www.thecodingcouple.com/watermark-images-python-pillow-pil/).
